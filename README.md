@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center" height="50">Hello World 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
