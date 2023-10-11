@@ -1,12 +1,12 @@
-<img align="right" height="170" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<img align="right" height="250" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 
 ###
 
-<h1 align="center">Hello World 👋</h1>
+<h1 align="center" font-size="10rem">Hello World 👋</h1>
 
 ###
 
-<h3 align="left">✨ Who am I?</h3>
+<h1 align="left">✨ Who am I?</h1>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h6 align="left">🛠 Language and tools that I use</h6>
+<h4 align="left">🛠 Language and tools that I use</h4>
 
 ###
 
