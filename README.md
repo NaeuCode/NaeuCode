@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center" font-size="10rem">Hello World 👋</h1>
+<h1 align="center" height="50">Hello World 👋</h1>
 
 ###
 
