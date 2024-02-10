@@ -1,4 +1,4 @@
-<img align="right" height="250" src="/assets/1.jpg" />
+<img align="right" height="250" style="border-radius:2rem " src="/assets/1.jpg" />
 
 ###
 
@@ -24,20 +24,22 @@
 
 ###
 
-<h4 align="left">🛠 Language and tools that I use</h4>
+<h2 align="left">🛠 Language and tools that I use</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="/assets/s1.png" height="60" alt="html5 logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img src="/assets/s2.png" height="60" alt="css3 logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="32" />
-  <img src="/assets/tailwindcss-icon.svg" height="60" alt="tailwindcss logo"  />
+  <img src="/assets/s3.png" height="60" alt="javascript logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="32" />
+  <img src="/assets/qwik.png" height="60" alt="Qwik logo"  />
+  <img width="32" />
+  <img src="/assets/tailwindcss-icon.svg" height="60" alt="tailwindcss logo"  />
 </div>
 
 ###
