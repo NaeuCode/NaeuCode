@@ -1,4 +1,4 @@
-<img align="right" height="250" style="border-radius:2rem " src="/assets/1.jpg" />
+<img align="right" height="250" style="border-radius: 2rem;" src="/assets/1.jpg" />
 
 ###
 
