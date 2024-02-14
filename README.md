@@ -1,4 +1,4 @@
-<img align="right" height="250" style="border-radius: 2rem;" src="/assets/1.jpg" />
+<img align="right" height="250" src="/assets/1.jpg" />
 
 ###
 
@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/naeucode/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/Naeimart" target="_blank">
+  <a href="https://www.linkedin.com/naeim-arteqzadeh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
 </div>
