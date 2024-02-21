@@ -35,9 +35,9 @@
   <img width="32" />
   <img src="/assets/s3.png" height="60" alt="javascript logo"  />
   <img width="32" />
-  <img src="/assets/react.svg" height="60" alt="react logo"  />
+  <img src="/assets/react.png" height="60" alt="react logo"  />
   <img width="32" />
-  <img src="/assets/nextjs.svg" height="60" alt="next logo"  />
+  <img src="/assets/nextjs.png" height="60" alt="next logo"  />
   <img width="32" />
   <img src="/assets/qwik.png" height="60" alt="Qwik logo"  />
   <img width="32" />
