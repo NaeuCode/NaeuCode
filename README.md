@@ -1,4 +1,4 @@
-<img align="right" height="250" src="/assets/1.jpg" />
+<img align="right" height="250" src="/assets/.jpg" />
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Naeim Arteghzadeh and I’m Frontend Developer and Welcome to my Github Channel.</p>
+<p align="left">My name is Naeim Art and I’m Frontend Developer and Welcome to my Github Channel.</p>
 
 ###
 
