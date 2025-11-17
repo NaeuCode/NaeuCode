@@ -1,4 +1,4 @@
-<img align="right" height="250" src="/assets/.jpg" />
+<!-- <img align="right" height="250" src="/assets/1.jpg" /> -->
 
 ###
 
